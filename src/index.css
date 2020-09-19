@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.apexcharts-legend-marker {
+  border-radius: 100% !important;
+  text-align: left;
+}
+.apexcharts-toolbar {
+  display: none;
+}
+
+#apexchartsbasicxbar {
+  margin: 0 auto;
+}
+
+.ag-theme-alpine {
+  margin: 0 auto;
+}
+
+.heading-text {
+  width: 73%;
+  margin: 0 auto;
+}
+
+.ag-row-even > div:first-child,
+.ag-row-odd > div:first-child {
+  color: #87ceeb;
+}
+
+.ag-header-cell-text{
+  text-transform: uppercase;
+}
+
+.apexcharts-legend.position-bottom.apexcharts-align-center, 
+.apexcharts-legend.position-top.apexcharts-align-center {
+  justify-content: left !important;
+}
+
